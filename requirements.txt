@@ -1,0 +1,3 @@
+# These include all packages needed by embedded Python code in posts
+pandas
+pycountry
