@@ -1,3 +1,5 @@
 # These include all packages needed by embedded Python code in posts
+iam-units
 pandas
 pycountry
+sdmx1[cache]
