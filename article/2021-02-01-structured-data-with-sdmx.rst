@@ -252,7 +252,7 @@ This means that, in a particular data set, only one GWP metric can be used, and 
         da = model.DataAttribute(
             concept_identity=concept,
             id=concept.id,
-            related_to=model.NoSpecifiedRelationship(),
+            related_to=model.NoSpecifiedRelationship,
         )
         dsd.attributes.append(da)
 
